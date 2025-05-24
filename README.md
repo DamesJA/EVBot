@@ -1,1 +1,1 @@
-this is a program for cool people
+Smart people don't waste time on README's ;)
